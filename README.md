@@ -1,4 +1,4 @@
-INSOLVENCY means in simpler terms also known as BANKRUPTCY .
+#INSOLVENCY means in simpler terms also known as BANKRUPTCY .
 
 To assess loan eligibility, banks and other financial lending institutions often look at a loan
 applicant's credit history, economic status, and other factors, but the relationship between
