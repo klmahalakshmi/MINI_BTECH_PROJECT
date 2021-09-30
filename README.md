@@ -1,4 +1,6 @@
-#INSOLVENCY means in simpler terms also known as BANKRUPTCY .
+## STIMULATING THE INSOLVENCY AND LOAN ELIGIBILITY
+
+**INSOLVENCY means in simpler terms also known as BANKRUPTCY .**
 
 To assess loan eligibility, banks and other financial lending institutions often look at a loan
 applicant's credit history, economic status, and other factors, but the relationship between
@@ -12,4 +14,4 @@ supplement it with data from other sets, and try to understand the static variab
 strongly correlate with a company's financial status by developing a classification strategy
 and evaluating the model's measures.
 
-Keywords:Insolvency , bankruptcy, banks, financial lending ,loan , time series analysis.
+**Keywords**:Insolvency , bankruptcy, banks, financial lending ,loan , time series analysis.
